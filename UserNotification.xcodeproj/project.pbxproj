@@ -54,9 +54,9 @@
 		93952CB422BDB0DF00192026 /* UserNotification */ = {
 			isa = PBXGroup;
 			children = (
-				93952CB522BDB0DF00192026 /* AppDelegate.swift */,
 				93952CB722BDB0DF00192026 /* ViewController.swift */,
 				93952CB922BDB0DF00192026 /* Main.storyboard */,
+				93952CB522BDB0DF00192026 /* AppDelegate.swift */,
 				93952CBC22BDB0E700192026 /* Assets.xcassets */,
 				93952CBE22BDB0E700192026 /* LaunchScreen.storyboard */,
 				93952CC122BDB0E700192026 /* Info.plist */,
